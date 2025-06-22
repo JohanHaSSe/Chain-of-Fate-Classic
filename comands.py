@@ -1,0 +1,5 @@
+# Imports
+
+class View():
+	pass
+
